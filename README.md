@@ -5,8 +5,8 @@ Jupyter notebook and associated files to recreate figures in GRL paper by Tye et
 Very heavy winter precipitation events over the southeastern United States are disruptive and can contribute up to 30% of the seasonal total; yet the drivers of their multi-year variability remain understudied. This research evaluates very heavy decadal winter precipitation over the southeastern United States and its relationship with Pacific Modes of Variability (MOV). Community Earth System Model v2 (CESM2) and Energy Exascale Earth System Model v2 (E3SM2) Large Ensembles’ ability to reproduce historical intensity, variability and spatial patterns of very heavy precipitation is assessed compared to ERA5. We find a high correlation with all Pacific MOVs; positive phases (with warmer tropical Pacific sea surface temperatures) correlate with increased event frequency and precipitation intensity. While El Niño characterizes precipitation processes at the seasonal scale, Interdecadal Pacific Variability dominates decadal precipitation processes. Results indicate that the strongest model correlations exist for members with moderate MOV intensity and phase persistence, similar to ERA5.
 
 ## Contents
-* Data files required to reproduce 3 figures in main text and 11 supplemental figures.  
 * Jupyter notebook referencing above files to create figures.  
+Data can be found at https://app.globus.org/file-manager/collections/6a423217-16b8-4a71-9b1c-372898338e9f 
 
 ## Original data locations
 CESM2 Large Ensemble (Danabasoglu et al. 2020) available on https://gdex.ucar.edu/datasets/d651056/   
